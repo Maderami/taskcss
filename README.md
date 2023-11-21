@@ -6,4 +6,4 @@
 # Проект Новостного блога
 Разработан в качестве решения задания на курсе Fullstack разработчик
 ## Для открытия проекта необходимо перейти по ссылке ниже:
-[Сайт](https://maderami.github.io/taskcss/){:target="_blank"}
+[Сайт](https://maderami.github.io/taskcss/)
