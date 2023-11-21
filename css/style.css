@@ -59,14 +59,11 @@ article a {
     color: rgb(33, 37, 41);
     text-decoration: none;
 }
-article:nth-child(-n+2) h2:before {
+article:nth-child(-n+2) h2 {
     content: "New - ";
  
 }
-article:nth-child(-n+2) h2:after {
-    content: "New - ";
- 
-}
+
 article a:hover {
     color: #0085a1;
 }
