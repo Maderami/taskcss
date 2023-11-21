@@ -63,6 +63,10 @@ article:nth-child(-n+2) h2::before {
     content: "New - ";
  
 }
+article:nth-child(-n+2) h2::after {
+    content: "New - ";
+ 
+}
 article a:hover {
     color: #0085a1;
 }
